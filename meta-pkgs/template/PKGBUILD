@@ -1,0 +1,11 @@
+# Maintainer: Jacob Peyron <jacob.peyron@gmail.com>
+pkgname=jarch-NAME
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="DESCR configuration for jarch systems"
+arch=('any')
+url="https://github.com/HexHacks/pkg-install.git"
+license=('MIT')
+depends=(
+    # package list
+)
